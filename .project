@@ -7,6 +7,7 @@
 	<buildSpec>
 		<buildCommand>
 			<name>org.eclipse.m2e.core.maven2Builder</name>
+			Comment added by USA 1
 			<arguments>
 			</arguments>
 		</buildCommand>
